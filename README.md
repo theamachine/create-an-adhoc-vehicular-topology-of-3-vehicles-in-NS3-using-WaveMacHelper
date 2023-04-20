@@ -9,7 +9,7 @@ This was done through the following steps:
 * The packet payload of the CCH message is 500 Bytes.  
 * The ethernet type protocol is set to 0x88dc which correspond to WSMP.  
 * The transmission characteristics of this CCH broadcast message are as follows:  
-  -The transmission data rate (wifiMode) is OfdmRate12MbpsBW10MHz.
+  - The transmission data rate (wifiMode) is OfdmRate12MbpsBW10MHz.
   - The priority of packets is 7 (the packets priority is a number between 0 and 7, and 7 is the lowest priority)
   - The transmission power level is 10.
   - Hint: A TxInfo object should be defined for configuring channelNumber, dataRate, priority, txPowerLevel.  
