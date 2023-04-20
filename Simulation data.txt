@@ -1,0 +1,147 @@
+Waf: Entering directory `/home/omar/ns-allinone-3.35/ns-3.35/build'
+[2940/2998] Compiling scratch/group14_assignment4.cc
+[2959/2998] Linking build/scratch/group14_assignment4
+Waf: Leaving directory `/home/omar/ns-allinone-3.35/ns-3.35/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (25.309s)
+run WAVE WSMP routing service case:
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 1,
+  sendTime = +1s,
+  recvTime = +1.00484s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 1,
+  sendTime = +1s,
+  recvTime = +1.00484s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:18,
+  sequence = 4,
+  sendTime = +5s,
+  recvTime = +5.0555s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:08,
+  sender = 02-06-00:00:00:00:00:18,
+  sequence = 4,
+  sendTime = +5s,
+  recvTime = +5.0555s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:08,
+  sender = 02-06-00:00:00:00:00:10,
+  sequence = 3,
+  sendTime = +5s,
+  recvTime = +5.05702s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:10,
+  sequence = 3,
+  sendTime = +5s,
+  recvTime = +5.05702s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 2,
+  sendTime = +5s,
+  recvTime = +5.05857s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 2,
+  sendTime = +5s,
+  recvTime = +5.05857s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:18,
+  sequence = 7,
+  sendTime = +10s,
+  recvTime = +10.0555s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:08,
+  sender = 02-06-00:00:00:00:00:18,
+  sequence = 7,
+  sendTime = +10s,
+  recvTime = +10.0555s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:10,
+  sequence = 6,
+  sendTime = +10s,
+  recvTime = +10.057s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:08,
+  sender = 02-06-00:00:00:00:00:10,
+  sequence = 6,
+  sendTime = +10s,
+  recvTime = +10.057s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 5,
+  sendTime = +10s,
+  recvTime = +10.0586s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 5,
+  sendTime = +10s,
+  recvTime = +10.0586s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:18,
+  sequence = 10,
+  sendTime = +15s,
+  recvTime = +15.0555s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:08,
+  sender = 02-06-00:00:00:00:00:18,
+  sequence = 10,
+  sendTime = +15s,
+  recvTime = +15.0555s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:10,
+  sequence = 9,
+  sendTime = +15s,
+  recvTime = +15.057s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:08,
+  sender = 02-06-00:00:00:00:00:10,
+  sequence = 9,
+  sendTime = +15s,
+  recvTime = +15.057s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 8,
+  sendTime = +15s,
+  recvTime = +15.0586s,
+  protocol = 0x88dc
+receive a packet:
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 8,
+  sendTime = +15s,
+  recvTime = +15.0586s,
+  protocol = 0x88dc
