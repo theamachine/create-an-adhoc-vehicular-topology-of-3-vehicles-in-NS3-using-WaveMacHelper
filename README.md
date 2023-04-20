@@ -1,4 +1,4 @@
-# create-an-adhoc-vehicular-topology-of-3-vehicles-in-NS3-using-WaveMacHelper
+# Create an adhoc vehicular topology of 3 vehicles in NS3 using WaveMacHelper
 This was done through the following steps:  
 1. Using 3 nodes (vehicles), with simulation time of 20 seconds.  
 2. The vehicles are mobile on a rectangular area according to RandomWalk2dMobility model:  
