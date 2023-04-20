@@ -19,4 +19,6 @@ This was done through the following steps:
 * The priority of the packets sent from vehicle 2 is 5.  
 * The rate of the broadcast for vehicle 2 is 9Mbps.  
 * The priority of the packets sent from vehicle 3 is 7.    
-* The rate of the broadcast for vehicle 3 is 6Mbps.
+* The rate of the broadcast for vehicle 3 is 6Mbps.  
+5. All the sent packets should have sequence number that increases iteratively per node at each time stamp.  
+6. A callback function should be defined in your simulation wherein you are supposed to print out the sender and receiver’s MAC address, the sequence number and the time stamp.
